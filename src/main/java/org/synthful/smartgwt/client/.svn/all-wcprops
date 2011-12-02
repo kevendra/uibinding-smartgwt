@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131/trunk/src/main/java/org/synthful/smartgwt/client
+END
+HasWidgetsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13/trunk/src/main/java/org/synthful/smartgwt/client/HasWidgetsUtil.java
+END
+HasUICanvasAlign.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20/trunk/src/main/java/org/synthful/smartgwt/client/HasUICanvasAlign.java
+END
+HasUILayoutAlign.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/20/trunk/src/main/java/org/synthful/smartgwt/client/HasUILayoutAlign.java
+END
+UIMasqueradedDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/130/trunk/src/main/java/org/synthful/smartgwt/client/UIMasqueradedDataSource.java
+END
+UIMasquerade.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/src/main/java/org/synthful/smartgwt/client/UIMasquerade.java
+END
+LazyCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/76/trunk/src/main/java/org/synthful/smartgwt/client/LazyCanvas.java
+END
+UIArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/51/trunk/src/main/java/org/synthful/smartgwt/client/UIArray.java
+END
+UIMasqueradedWidgetArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/51/trunk/src/main/java/org/synthful/smartgwt/client/UIMasqueradedWidgetArray.java
+END
+DataSourceInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/51/trunk/src/main/java/org/synthful/smartgwt/client/DataSourceInit.java
+END
